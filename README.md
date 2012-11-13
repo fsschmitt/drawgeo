@@ -1,4 +1,4 @@
-drawgeo
+Draw Geo
 =======
 
 Draw Geo - An Android Geolocation Based Game
